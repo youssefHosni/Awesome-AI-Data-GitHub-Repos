@@ -7,6 +7,7 @@
 ## Large Language Models ##
 * [Open LLMs: List of LLMs that are all licensed for commercial](https://github.com/eugeneyan/open-llms)
 * [Awesome-LLM: Curated list of papers about large language models, especially relating to ChatGPT](https://github.com/Hannibal046/Awesome-LLM)
+* [awesome-decentralized-llm: Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research](https://github.com/imaurer/awesome-decentralized-llm)
 
 ## Computer Vision ## 
 * [Computer Vision Tutorials by Roboflow](https://github.com/roboflow/notebooks)
