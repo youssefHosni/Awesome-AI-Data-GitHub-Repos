@@ -14,5 +14,5 @@
 * [Computer Vision Tutorials by Roboflow](https://github.com/roboflow/notebooks)
 
 ## Data Science ##
-
+* [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
 
