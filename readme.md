@@ -1,5 +1,14 @@
 # Awesome Machine Learning & Data Science GitHub-Repos
 
+Table of Contents:
+* [Natural Language Processing (NLP)]()
+* [Large Language Models(LLM)]()
+* [Computer Vision]()
+* [Data Science]()
+* [Machine Learning]() 
+* [Machine Learning Engineerings Operations (MLOps)]()
+* [Data Engineering]() 
+
 ## Natural Language Processing ##
 * [nlp-tutorial](https://github.com/graykode/nlp-tutorial): nlp-tutorial is a tutorial for who is studying NLP(Natural Language Processing) using Pytorch. Most of the models in NLP were implemented with less than 100 lines of code.
 
