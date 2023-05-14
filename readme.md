@@ -22,10 +22,13 @@
 * [Data Engineering](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=MLOps%20Course-,Data%20Engineering,-Data%20Engineering%20Zoomcamp) 
 
 ## Natural Language Processing ##
+![Balto-Natural-Language-Processing-How-Machines-Are-Getting-Better-at-Human-Language](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/assets/72076328/e2646698-6897-430e-983f-177ec9b3c76e)
+
 * [nlp-tutorial](https://github.com/graykode/nlp-tutorial): nlp-tutorial is a tutorial for who is studying NLP(Natural Language Processing) using Pytorch. Most of the models in NLP were implemented with less than 100 lines of code.
 
 
 ## Large Language Models ##
+![1_RRUsg18czDkQluVPCCZYrw](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/assets/72076328/307d3721-f8eb-473e-8443-e8447d75dc32)
 * [Open LLMs: List of LLMs that are all licensed for commercial](https://github.com/eugeneyan/open-llms)
 * [Awesome-LLM: Curated list of papers about large language models, especially relating to ChatGPT](https://github.com/Hannibal046/Awesome-LLM)
 * [awesome-decentralized-llm: Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research](https://github.com/imaurer/awesome-decentralized-llm)
@@ -36,6 +39,8 @@
 * [Computer Vision Tutorials by Roboflow](https://github.com/roboflow/notebooks)
 
 ## Data Science ##
+![a4](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/assets/72076328/8c756690-5286-4857-9265-32235b09dd63)
+
 * [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
 * [freeCodeCamp.org's open-source codebase and curriculum](https://github.com/freeCodeCamp/freeCodeCamp)
 * [List of Data Science/Big Data Resources](https://github.com/chaconnewu/free-data-science-books)
