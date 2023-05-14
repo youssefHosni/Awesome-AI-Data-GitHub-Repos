@@ -24,4 +24,20 @@ Table of Contents:
 
 ## Data Science ##
 * [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
+* freeCodeCamp.org's open-source codebase and curriculum
+* Data Science for Beginners - A Curriculum
+* List of Data Science/Big Data Resources
+* Open Source Society University: Path to a free self-taught Education in Data Science
+* AWESOME DATA SCIENCE: An open-source Data Science repository to learn and apply towards solving real-world problems.
+* ALL CHEAT SHEET
+* Data Science End-to-End Projects
+* Data Science Interview Resources
+* Data-Science Interview Questions Answers
 
+## Machine Learning ##
+* Best-of Machine Learning with Python: A ranked list of awesome machine learning Python libraries
+
+## Machine Learning Engineerings Operations (MLOps) ##
+
+
+## Data Engineering ##
