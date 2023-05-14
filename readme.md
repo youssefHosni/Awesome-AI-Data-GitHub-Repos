@@ -45,6 +45,12 @@ Table of Contents:
 * [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
 
 ## Machine Learning Engineerings Operations (MLOps) ##
-
+* [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+* [MLOps Guide](https://mlops-guide.github.io/)
+* [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+* [Awesome MLOps - Tools](https://github.com/kelvins/awesome-mlops)
+* [DTU MLOps](https://github.com/SkafteNicki/dtu_mlops)
+* [MLOps Course](https://github.com/GokuMohandas/mlops-course)
+* 
 
 ## Data Engineering ##
