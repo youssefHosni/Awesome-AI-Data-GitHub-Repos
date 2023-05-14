@@ -64,6 +64,8 @@
 * [MLOps Course](https://github.com/GokuMohandas/mlops-course)
 
 ## Data Engineering ##
+![Napa-Data-Engineering-Image](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/assets/72076328/a0819f96-be10-44c5-bbe5-944108b5c7f3)
+
 * [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 * [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 * [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo)
