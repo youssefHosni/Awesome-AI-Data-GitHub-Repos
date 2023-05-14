@@ -56,7 +56,7 @@
 * [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
 
 ## Machine Learning Engineerings Operations (MLOps) ##
-![download (9)](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/assets/72076328/3be5f6b1-de60-462e-a0b4-364766a2fadd)
+![1627639051581](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/assets/72076328/f37cbaf8-ddd0-4fc5-aded-d108a5df1ec9)
 
 * [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 * [MLOps Guide](https://mlops-guide.github.io/)
