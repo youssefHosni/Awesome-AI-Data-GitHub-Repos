@@ -32,6 +32,7 @@
 * [LangChain:Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
 
 ## Computer Vision ## 
+![1_8gmgaAkFdI-9OHY5cA93xQ](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/assets/72076328/d2217797-7f3f-45e8-8edf-79cadcbe5c34)
 * [Computer Vision Tutorials by Roboflow](https://github.com/roboflow/notebooks)
 
 ## Data Science ##
