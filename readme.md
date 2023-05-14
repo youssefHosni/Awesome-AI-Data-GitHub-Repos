@@ -51,6 +51,6 @@ Table of Contents:
 * [Awesome MLOps - Tools](https://github.com/kelvins/awesome-mlops)
 * [DTU MLOps](https://github.com/SkafteNicki/dtu_mlops)
 * [MLOps Course](https://github.com/GokuMohandas/mlops-course)
-* 
 
 ## Data Engineering ##
+
