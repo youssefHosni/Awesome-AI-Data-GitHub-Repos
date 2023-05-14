@@ -35,6 +35,10 @@ Table of Contents:
 
 ## Machine Learning ##
 * Best-of Machine Learning with Python: A ranked list of awesome machine learning Python libraries
+* [GitHub Community Discussions](https://github.com/community/community): In this repository, you will find categories for various product areas. Feel free to share feedback, discuss topics with other community members, or ask questions.
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome machine learning frameworks, libraries and software (by language).
+* [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials): This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources
+* []():
 
 ## Machine Learning Engineerings Operations (MLOps) ##
 
