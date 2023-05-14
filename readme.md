@@ -4,7 +4,7 @@
 * [Natural Language Processing (NLP)](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=Data%20Engineering-,Natural%20Language%20Processing,-nlp%2Dtutorial%3A%20nlp)
 * [Large Language Models(LLM)](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=lines%20of%20code.-,Large%20Language%20Models,-Open%20LLMs%3A%20List)
 * [Computer Vision](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=LLMs%20through%20composability-,Computer%20Vision,-Computer%20Vision%20Tutorials)
-* [Data Science]()
+* [Data Science](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=Tutorials%20by%20Roboflow-,Data%20Science,-Data%20Science%20for)
 * [Machine Learning]() 
 * [Machine Learning Engineerings Operations (MLOps)]()
 * [Data Engineering]() 
