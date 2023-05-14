@@ -38,7 +38,11 @@ Table of Contents:
 * [GitHub Community Discussions](https://github.com/community/community): In this repository, you will find categories for various product areas. Feel free to share feedback, discuss topics with other community members, or ask questions.
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome machine learning frameworks, libraries and software (by language).
 * [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials): This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources
-* []():
+* [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python): A ranked list of awesome machine learning Python libraries.
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples): This tutorial was designed for easily diving into TensorFlow, through examples. For readability, it includes both notebooks and source codes with explanation, for both TF v1 & v2.
+* [Machine Learning Projects](https://github.com/lukas/ml-class)
+* [Randy Olson's data analysis and machine learning projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
+* [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
 
 ## Machine Learning Engineerings Operations (MLOps) ##
 
