@@ -53,4 +53,10 @@ Table of Contents:
 * [MLOps Course](https://github.com/GokuMohandas/mlops-course)
 
 ## Data Engineering ##
-
+* [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+* [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
+* [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo)
+* [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
+* [Data Engineering Roadmap](https://github.com/datastacktv/data-engineer-roadmap)
+* [Data Engineering Projects](https://github.com/alanchn31/Data-Engineering-Projects)
+* [Data Engineering Interview Questions](https://github.com/OBenner/data-engineering-interview-questions)
