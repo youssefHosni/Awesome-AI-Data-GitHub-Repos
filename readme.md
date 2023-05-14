@@ -1,15 +1,15 @@
 # Awesome Machine Learning & Data Science GitHub-Repos
 
 
-[![GitHub license](https://img.shields.io/github/license/microsoft/Data-Science-For-Beginners.svg)](https://github.com/microsoft/Awesome-ML-GitHub-Repos/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Data-Science-For-Beginners.svg)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/microsoft/Data-Science-For-Beginners.svg)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Data-Science-For-Beginners.svg)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/pulls/)
+[![GitHub license](https://img.shields.io/github/license/microsoft/Awesome-ML-GitHub-Repos.svg)](https://github.com/microsoft/Awesome-ML-GitHub-Repos/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Awesome-ML-GitHub-Repos.svg)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/microsoft/Awesome-ML-GitHub-Repos.svg)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Awesome-ML-GitHub-Repos.svg)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/pulls/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Data-Science-For-Beginners.svg?style=social&label=Watch)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/microsoft/Data-Science-For-Beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/network/)
-[![GitHub stars](https://img.shields.io/github/stars/microsoft/Data-Science-For-Beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Awesome-ML-GitHub-Repos.svg?style=social&label=Watch)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/Awesome-ML-GitHub-Repos.svg?style=social&label=Fork)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/network/)
+[![GitHub stars](https://img.shields.io/github/stars/microsoft/Awesome-ML-GitHub-Repos.svg?style=social&label=Star)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/stargazers/)
 
 
 ## Table of Contents:
