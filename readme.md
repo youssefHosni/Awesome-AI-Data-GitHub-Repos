@@ -40,7 +40,7 @@
 * [Transformer in Vision :paper list of some recent Transformer-based CV works](https://github.com/Yangzhangcst/Transformer-in-Computer-Vision)
 
 ## Data Science ##
-![alt text]()
+![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Data%20Science.png)
 
 * [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
 * [freeCodeCamp.org's open-source codebase and curriculum](https://github.com/freeCodeCamp/freeCodeCamp)
