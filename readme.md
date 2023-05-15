@@ -1,5 +1,5 @@
 # Awesome Machine Learning & Data Science GitHub-Repos
-
+A curated list of the most important GitHub repos that cover the AI & ML landscape
 
 [![GitHub license](https://img.shields.io/github/license/microsoft/Awesome-ML-GitHub-Repos.svg)](https://github.com/microsoft/Awesome-ML-GitHub-Repos/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Awesome-ML-GitHub-Repos.svg)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/graphs/contributors/)
