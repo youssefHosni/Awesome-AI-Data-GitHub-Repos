@@ -22,7 +22,7 @@
 * [Data Engineering](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=MLOps%20Course-,Data%20Engineering,-Data%20Engineering%20Zoomcamp) 
 
 ## Natural Language Processing ##
-![Balto-Natural-Language-Processing-How-Machines-Are-Getting-Better-at-Human-Language](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/assets/72076328/e2646698-6897-430e-983f-177ec9b3c76e)
+![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/NLP.jpg)
 
 * [nlp-tutorial](https://github.com/graykode/nlp-tutorial): nlp-tutorial is a tutorial for who is studying NLP(Natural Language Processing) using Pytorch. Most of the models in NLP were implemented with less than 100 lines of code.
 
