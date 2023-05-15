@@ -2,15 +2,15 @@
 A curated list of the most important GitHub repos that cover the AI & ML landscape. If you like to add or update projects, feel free to open an issue, or submit a pull request. Contributions are very welcome!
 
 
-[![GitHub license](https://img.shields.io/github/license/microsoft/Awesome-ML-GitHub-Repos.svg)](https://github.com/microsoft/Awesome-ML-GitHub-Repos/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Awesome-ML-GitHub-Repos.svg)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/microsoft/Awesome-ML-GitHub-Repos.svg)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Awesome-ML-GitHub-Repos.svg)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/pulls/)
+[![GitHub license](https://img.shields.io/github/license/youssefHosni/Awesome-ML-GitHub-Repos.svg)](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/youssefHosni/Awesome-ML-GitHub-Repos.svg)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/youssefHosni/Awesome-ML-GitHub-Repos.svg)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/youssefHosni/Awesome-ML-GitHub-Repos.svg)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/pulls/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Awesome-ML-GitHub-Repos.svg?style=social&label=Watch)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/microsoft/Awesome-ML-GitHub-Repos.svg?style=social&label=Fork)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/network/)
-[![GitHub stars](https://img.shields.io/github/stars/microsoft/Awesome-ML-GitHub-Repos.svg?style=social&label=Star)](https://GitHub.com/microsoft/Awesome-ML-GitHub-Repos/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/youssefHosni/Awesome-ML-GitHub-Repos.svg?style=social&label=Watch)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Awesome-ML-GitHub-Repos.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/network/)
+[![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Awesome-ML-GitHub-Repos.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/stargazers/)
 
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Awosme%20ML%20GitHub%20Repos.png)
 
