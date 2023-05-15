@@ -28,19 +28,19 @@
 
 
 ## Large Language Models ##
-![1_RRUsg18czDkQluVPCCZYrw](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/assets/72076328/307d3721-f8eb-473e-8443-e8447d75dc32)
+![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/LLM.png)
 * [Open LLMs: List of LLMs that are all licensed for commercial](https://github.com/eugeneyan/open-llms)
 * [Awesome-LLM: Curated list of papers about large language models, especially relating to ChatGPT](https://github.com/Hannibal046/Awesome-LLM)
 * [awesome-decentralized-llm: Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research](https://github.com/imaurer/awesome-decentralized-llm)
 * [LangChain:Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
 
 ## Computer Vision ## 
-![1_8gmgaAkFdI-9OHY5cA93xQ](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/assets/72076328/d2217797-7f3f-45e8-8edf-79cadcbe5c34)
+![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Computer%20Vision.png)
 * [Computer Vision Tutorials by Roboflow](https://github.com/roboflow/notebooks)
 * [Transformer in Vision :paper list of some recent Transformer-based CV works](https://github.com/Yangzhangcst/Transformer-in-Computer-Vision)
 
 ## Data Science ##
-![a4](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/assets/72076328/8c756690-5286-4857-9265-32235b09dd63)
+![alt text]()
 
 * [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
 * [freeCodeCamp.org's open-source codebase and curriculum](https://github.com/freeCodeCamp/freeCodeCamp)
@@ -53,7 +53,7 @@
 * [Data-Science Interview Questions Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers)
 
 ## Machine Learning ##
-![1_c_fiB-YgbnMl6nntYGBMHQ](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/assets/72076328/6023cdc7-108f-4b06-b62e-13aa857104d8)
+![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Machine%20Learning.jpg)
 
 * [GitHub Community Discussions](https://github.com/community/community): In this repository, you will find categories for various product areas. Feel free to share feedback, discuss topics with other community members, or ask questions.
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome machine learning frameworks, libraries and software (by language).
@@ -65,7 +65,7 @@
 * [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
 
 ## Machine Learning Engineerings Operations (MLOps) ##
-![1627639051581](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/assets/72076328/f37cbaf8-ddd0-4fc5-aded-d108a5df1ec9)
+![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/MLOps.png)
 
 * [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 * [MLOps Guide](https://mlops-guide.github.io/)
@@ -75,7 +75,7 @@
 * [MLOps Course](https://github.com/GokuMohandas/mlops-course)
 
 ## Data Engineering ##
-![Napa-Data-Engineering-Image](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/assets/72076328/a0819f96-be10-44c5-bbe5-944108b5c7f3)
+![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Data%20Engineering.jpg)
 
 * [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 * [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
