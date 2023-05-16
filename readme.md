@@ -38,10 +38,12 @@ A curated list of the most important GitHub repos that cover the AI & ML landsca
 
 ## Computer Vision ## 
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Computer%20Vision.png)
+* [Awesome Computer Vision: A curated list of awesome computer vision resources](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Computer Vision Tutorials by Roboflow](https://github.com/roboflow/notebooks)
 * [Transformer in Vision :paper list of some recent Transformer-based CV works](https://github.com/Yangzhangcst/Transformer-in-Computer-Vision)
 * [Awesome-Referring-Image-Segmentation: A collection of referring image segmentation papers and datasets](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation)
 * [awesome-vision-language-pretraining-papers: Recent Advances in Vision and Language PreTrained Models (VL-PTMs)](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
+* [Awesome Vision-and-Language: A curated list of awesome vision and language resources,](https://github.com/sangminwoo/awesome-vision-and-language)
 * [Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation](https://github.com/zhenyingfang/Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation)
 
 ## Data Science ##
