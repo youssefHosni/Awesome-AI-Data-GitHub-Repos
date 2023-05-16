@@ -47,6 +47,7 @@ A curated list of the most important GitHub repos that cover the AI & ML landsca
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Data%20Science.png)
 
 * [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
+* [Data Science Resources](https://github.com/jonathan-bower/DataScienceResources)
 * [freeCodeCamp.org's open-source codebase and curriculum](https://github.com/freeCodeCamp/freeCodeCamp)
 * [List of Data Science/Big Data Resources](https://github.com/chaconnewu/free-data-science-books)
 * [Open Source Society University: Path to a free self-taught Education in Data Science](https://github.com/ossu/data-science)
