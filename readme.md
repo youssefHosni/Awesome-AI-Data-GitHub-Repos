@@ -71,6 +71,7 @@ A curated list of the most important GitHub repos that cover the AI & ML landsca
 * [Machine Learning Projects](https://github.com/lukas/ml-class)
 * [Randy Olson's data analysis and machine learning projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
 * [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
+* [Machine Learning Interview Questions: Machine Learning and Computer Vision Engineer](https://github.com/andrewekhalel/MLQuestions)
 
 ## Machine Learning Engineerings Operations (MLOps) ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/MLOps.png)
