@@ -46,6 +46,7 @@ A curated list of the most important GitHub repos that cover the AI & ML landsca
 * [awesome-vision-language-pretraining-papers: Recent Advances in Vision and Language PreTrained Models (VL-PTMs)](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
 * [Awesome Vision-and-Language: A curated list of awesome vision and language resources,](https://github.com/sangminwoo/awesome-vision-and-language)
 * [Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation](https://github.com/zhenyingfang/Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation)
+* [Awesome-Referring-Image-Segmentation: A collection of referring image segmentation papers and datasets.](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation)
 
 ## Data Science ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Data%20Science.png)
