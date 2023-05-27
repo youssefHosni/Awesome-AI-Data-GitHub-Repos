@@ -76,7 +76,7 @@ A curated list of the most important GitHub repos that cover the AI & ML landsca
 
 ## Machine Learning Engineerings Operations (MLOps) ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/MLOps.png)
-
+* [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 * [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 * [MLOps Guide](https://mlops-guide.github.io/)
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops)
