@@ -59,6 +59,7 @@ A curated list of the most important GitHub repos that cover the AI & ML landsca
 * [AWESOME DATA SCIENCE: An open-source Data Science repository to learn and apply towards solving real-world problems.](https://github.com/academic/awesome-datascience)
 * [Data Science ALL CHEAT SHEET](https://github.com/yash42828/Data-Science--All-Cheat-Sheet)
 * [Data Science End-to-End Projects](https://github.com/veb-101/Data-Science-Projects)
+* [Data Analysis Projects](https://github.com/arjunmann73/Data-Analytics-Projects)
 * [Data Science Interview Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources)
 * [Data-Science Interview Questions Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers)
 
