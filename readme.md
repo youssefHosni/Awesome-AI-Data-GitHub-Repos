@@ -63,6 +63,7 @@ A curated list of the most important GitHub repos that cover the AI & ML landsca
 * [Data Analysis Projects](https://github.com/arjunmann73/Data-Analytics-Projects)
 * [Data Science Interview Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources)
 * [Data-Science Interview Questions Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers)
+* [Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources)
 
 ## Machine Learning ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Machine%20Learning.jpg)
