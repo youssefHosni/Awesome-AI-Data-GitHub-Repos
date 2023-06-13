@@ -51,6 +51,7 @@ A curated list of the most important GitHub repos that cover the AI & ML landsca
 * [Awesome Masked Autoencoders: A collection of literature after or concurrent with Masked Autoencoder (MAE) ](https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders)
 * [Awesome Visual-Transformer: Collection of some Transformer with Computer-Vision (CV) papers](https://github.com/dk-liang/Awesome-Visual-Transformer)
 * [Transformer-Based Visual Segmentation: A Survey](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer)
+* [Awesome-Segmentation-With-Transformer](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer)
 
 ## Data Science ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Data%20Science.png)
