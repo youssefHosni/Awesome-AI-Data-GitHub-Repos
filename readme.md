@@ -1,5 +1,5 @@
 # Awesome AI & Data GitHub-Repos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of the most essential GitHub repos that cover the AI & ML landscape. If you like to add or update projects, feel free to open an issue, or submit a pull request. Contributions are very welcome!
+A curated list of the most essential GitHub repos that cover the AI & ML landscape. If you like to add or update projects, feel free to open an issue or submit a pull request. Contributions are very welcome!
 
 
 [![GitHub license](https://img.shields.io/github/license/youssefHosni/Awesome-ML-GitHub-Repos.svg)](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/master/LICENSE)
