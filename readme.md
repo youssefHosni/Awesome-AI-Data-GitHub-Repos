@@ -71,6 +71,7 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources)
 * [Amazing-Feature-Engineering](https://github.com/ashishpatel26/Amazing-Feature-Engineering)
 * [Complete-Life-Cycle-of-a-Data-Science-Project](https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project)
+* [Data Science Cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet)
 
 ## Machine Learning ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Machine%20Learning.jpg)
