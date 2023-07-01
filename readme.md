@@ -27,6 +27,7 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/NLP.jpg)
 
 * [nlp-tutorial](https://github.com/graykode/nlp-tutorial): nlp-tutorial is a tutorial for who is studying NLP(Natural Language Processing) using Pytorch. Most NLP models were implemented with less than 100 lines of code.
+*[125+ NLP Language Models Treasure of Transformers Projects](https://github.com/ashishpatel26/Treasure-of-Transformers)
 
 
 ## Large Language Models ##
@@ -53,6 +54,7 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Transformer-Based Visual Segmentation: A Survey](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer)
 * [Awesome-Segmentation-With-Transformer](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer)
 * [CVPR 2o23 Paper with Code](https://github.com/amusi/CVPR2023-Papers-with-Code)
+* [365 Days Computer Vision Learning ](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post)
 
 ## Data Science ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Data%20Science.png)
@@ -87,8 +89,19 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Machine Learning Interview Questions: Machine Learning and Computer Vision Engineer](https://github.com/andrewekhalel/MLQuestions)
 * [Must Read Machine Learning & Deep Learning Papers](https://github.com/hurshd0/must-read-papers-for-ml)
 
+## Deep Learning ##
+![alt text](https://github.com/meryemsakin/Awesome-AI-Data-GitHub-Repos/blob/main/images/Deep%20Learning.png)
+
+*[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+*[Deep Learning with Pytorch](https://github.com/mrdbourke/pytorch-deep-learning)
+*[Nvidia Deep Learning Examples](https://github.com/NVIDIA/DeepLearningExamples)
+*[Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)
+*[Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning)
+*[Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+
 ## Machine Learning Engineerings Operations (MLOps) ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/MLOps.png)
+
 * [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 * [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 * [MLOps Guide](https://mlops-guide.github.io/)
