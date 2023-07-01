@@ -27,7 +27,7 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/NLP.jpg)
 
 * [nlp-tutorial](https://github.com/graykode/nlp-tutorial): nlp-tutorial is a tutorial for who is studying NLP(Natural Language Processing) using Pytorch. Most NLP models were implemented with less than 100 lines of code.
-*[125+ NLP Language Models Treasure of Transformers Projects](https://github.com/ashishpatel26/Treasure-of-Transformers)
+* [125+ NLP Language Models Treasure of Transformers Projects](https://github.com/ashishpatel26/Treasure-of-Transformers)
 
 
 ## Large Language Models ##
