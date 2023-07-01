@@ -92,12 +92,12 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 ## Deep Learning ##
 ![alt text](https://github.com/meryemsakin/Awesome-AI-Data-GitHub-Repos/blob/main/images/Deep%20Learning.png)
 
-*[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-*[Deep Learning with Pytorch](https://github.com/mrdbourke/pytorch-deep-learning)
-*[Nvidia Deep Learning Examples](https://github.com/NVIDIA/DeepLearningExamples)
-*[Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)
-*[Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning)
-*[Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Deep Learning with Pytorch](https://github.com/mrdbourke/pytorch-deep-learning)
+* [Nvidia Deep Learning Examples](https://github.com/NVIDIA/DeepLearningExamples)
+* [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)
+* [Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning)
+* [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 ## Machine Learning Engineerings Operations (MLOps) ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/MLOps.png)
