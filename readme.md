@@ -58,6 +58,7 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Awesome Deepfakes Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detec)
 * [365 Days Computer Vision Learning ](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post)
 
+
 ## Data Science ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Data%20Science.png)
 
