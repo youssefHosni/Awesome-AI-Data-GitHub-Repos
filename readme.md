@@ -55,6 +55,7 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Transformer-Based Visual Segmentation: A Survey](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer)
 * [Awesome-Segmentation-With-Transformer](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer)
 * [CVPR 2o23 Paper with Code](https://github.com/amusi/CVPR2023-Papers-with-Code)
+* [Awesome Deepfakes Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detec)
 * [365 Days Computer Vision Learning ](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post)
 
 ## Data Science ##
