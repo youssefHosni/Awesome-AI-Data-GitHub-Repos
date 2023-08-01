@@ -54,6 +54,7 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Awesome-Segmentation-With-Transformer](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer)
 * [CVPR 2o23 Paper with Code](https://github.com/amusi/CVPR2023-Papers-with-Code)
 * [Awesome Deepfakes Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection)
+* [Weekly-Top-Computer-Vision-Papers](https://github.com/youssefHosni/Weekly-Top-Computer-Vision-Papers)
 
 ## Data Science ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Data%20Science.png)
