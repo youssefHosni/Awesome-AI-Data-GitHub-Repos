@@ -37,6 +37,7 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [LangChain: Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
 * [Awesome LangChain: Curated list of tools and projects using LangChain](https://github.com/kyrolabs/awesome-langchain)
 * [Awesome-Graph-LLM: A collection of AWESOME things about Graph-Related Large Language Models (LLMs).](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
+* [DemoGPT: Auto Gen-AI App Generator with the Power of Llama 2](https://github.com/melih-unsal/DemoGPT)
 
 ## Computer Vision ## 
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Computer%20Vision.png)
