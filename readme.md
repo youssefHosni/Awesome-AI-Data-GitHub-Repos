@@ -39,6 +39,7 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Awesome LangChain: Curated list of tools and projects using LangChain](https://github.com/kyrolabs/awesome-langchain)
 * [Awesome-Graph-LLM: A collection of AWESOME things about Graph-Related Large Language Models (LLMs).](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 * [OpenLLM: An open platform for operating large language models (LLMs) in production](https://github.com/bentoml/OpenLLM)
+* [LLM Zoo: democratizing ChatGPT](https://github.com/FreedomIntelligence/LLMZoo)
 
 ## Computer Vision ## 
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Computer%20Vision.png)
