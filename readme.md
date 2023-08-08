@@ -37,7 +37,7 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Awesome Decentralized LLM: Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research](https://github.com/imaurer/awesome-decentralized-llm)
 * [LangChain: Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
 * [Awesome LangChain: Curated list of tools and projects using LangChain](https://github.com/kyrolabs/awesome-langchain)
-* [Awesome-Graph-LLM: A collection of AWESOME things about Graph-Related Large Language Models (LLMs).](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
+* [Awesome Graph LLM: A collection of AWESOME things about Graph-Related Large Language Models (LLMs).](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 * [OpenLLM: An open platform for operating large language models (LLMs) in production](https://github.com/bentoml/OpenLLM)
 * [LLM Zoo: democratizing ChatGPT](https://github.com/FreedomIntelligence/LLMZoo)
 
