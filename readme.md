@@ -40,6 +40,7 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Awesome Graph LLM: A collection of AWESOME things about Graph-Related Large Language Models (LLMs).](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 * [OpenLLM: An open platform for operating large language models (LLMs) in production](https://github.com/bentoml/OpenLLM)
 * [LLM Zoo: democratizing ChatGPT](https://github.com/FreedomIntelligence/LLMZoo)
+* [VectorDB-recipes](https://github.com/lancedb/vectordb-recipes)
 
 ## Computer Vision ## 
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Computer%20Vision.png)
