@@ -41,6 +41,7 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [OpenLLM: An open platform for operating large language models (LLMs) in production](https://github.com/bentoml/OpenLLM)
 * [LLM Zoo: democratizing ChatGPT](https://github.com/FreedomIntelligence/LLMZoo)
 * [VectorDB-recipes](https://github.com/lancedb/vectordb-recipes)
+* [Awesome GPT Prompt Engineering: A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)
 
 ## Computer Vision ## 
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Computer%20Vision.png)
