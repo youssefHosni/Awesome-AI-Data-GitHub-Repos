@@ -95,8 +95,9 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
 * [Machine Learning Interview Questions: Machine Learning and Computer Vision Engineer](https://github.com/andrewekhalel/MLQuestions)
 * [Must Read Machine Learning & Deep Learning Papers](https://github.com/hurshd0/must-read-papers-for-ml)
+* [Free Machine Learning Books](https://github.com/shahumar/Free-Machine-Learning-Books)
 
-## Machine Learning Engineerings Operations (MLOps) ##
+## Machine Learning Engineering Operations (MLOps) ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/MLOps.png)
 * [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 * [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
