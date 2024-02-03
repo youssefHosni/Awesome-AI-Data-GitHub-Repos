@@ -43,7 +43,7 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [VectorDB-recipes](https://github.com/lancedb/vectordb-recipes)
 * [Awesome GPT Prompt Engineering: A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)
 * [Prompt Engineering Guide: ](https://github.com/dair-ai/Prompt-Engineering-Guide)
-
+* [LLM Course](https://github.com/mlabonne/llm-course)
 ## Computer Vision ## 
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Computer%20Vision.png)
 * [Awesome Computer Vision: A curated list of awesome computer vision resources](https://github.com/jbhuang0604/awesome-computer-vision)
