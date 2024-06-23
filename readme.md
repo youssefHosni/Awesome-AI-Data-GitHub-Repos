@@ -21,7 +21,8 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Data Science](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=based%20CV%20works-,Data%20Science,-Data%20Science%20for)
 * [Machine Learning](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=Interview%20Questions%20Answers-,Machine%20Learning,-Best%2Dof%20Machine) 
 * [Machine Learning Engineerings Operations (MLOps)](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=Machine%20Learning%20Interviews-,Machine%20Learning%20Engineerings%20Operations%20(MLOps),-MLOps%2DBasics)
-* [Data Engineering](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=MLOps%20Course-,Data%20Engineering,-Data%20Engineering%20Zoomcamp) 
+* [Data Engineering](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=MLOps%20Course-,Data%20Engineering,-Data%20Engineering%20Zoomcamp)
+* [SQL & Database]()
 
 ## Natural Language Processing ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/NLP.jpg)
@@ -117,3 +118,17 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Data Engineering Roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 * [Data Engineering Projects](https://github.com/alanchn31/Data-Engineering-Projects)
 * [Data Engineering Interview Questions](https://github.com/OBenner/data-engineering-interview-questions)
+
+
+## SQL & Database ##
+
+* [SQL 101 by s-shemmee]()
+* [Learn SQL by WebDevSimplified]()
+* [SQL Masterclass by datawithdanny]()
+* [SQL Map by sqlmapproject]()
+* [SQL Server Samples by Microsoft]()
+* [SQL Music Store Analysis Project by rishabhnmishra]()
+* [Data Engineering Zoomcamp by DataTalksClub]()
+* [SQL Server Kit by ktaranov]()
+* [Awesome DB Tools by mgramin]()
+* [SQL for Wary Data Scientists by gvwilson]()
