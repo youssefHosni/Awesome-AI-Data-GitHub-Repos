@@ -38,13 +38,15 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Awesome Decentralized LLM: Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research](https://github.com/imaurer/awesome-decentralized-llm)
 * [LangChain: Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
 * [Awesome LangChain: Curated list of tools and projects using LangChain](https://github.com/kyrolabs/awesome-langchain)
-* [Awesome Graph LLM: A collection of AWESOME things about Graph-Related Large Language Models (LLMs).](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
+* [Awesome-Graph-LLM: A collection of AWESOME things about Graph-Related Large Language Models (LLMs).](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
+* [DemoGPT: Auto Gen-AI App Generator with the Power of Llama 2](https://github.com/melih-unsal/DemoGPT)
 * [OpenLLM: An open platform for operating large language models (LLMs) in production](https://github.com/bentoml/OpenLLM)
 * [LLM Zoo: democratizing ChatGPT](https://github.com/FreedomIntelligence/LLMZoo)
 * [VectorDB-recipes](https://github.com/lancedb/vectordb-recipes)
 * [Awesome GPT Prompt Engineering: A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)
 * [Prompt Engineering Guide: ](https://github.com/dair-ai/Prompt-Engineering-Guide)
 * [LLM Course](https://github.com/mlabonne/llm-course)
+
 ## Computer Vision ## 
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Computer%20Vision.png)
 * [Awesome Computer Vision: A curated list of awesome computer vision resources](https://github.com/jbhuang0604/awesome-computer-vision)
