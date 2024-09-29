@@ -21,23 +21,31 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Data Science](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=based%20CV%20works-,Data%20Science,-Data%20Science%20for)
 * [Machine Learning](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=Interview%20Questions%20Answers-,Machine%20Learning,-Best%2Dof%20Machine) 
 * [Machine Learning Engineerings Operations (MLOps)](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=Machine%20Learning%20Interviews-,Machine%20Learning%20Engineerings%20Operations%20(MLOps),-MLOps%2DBasics)
-* [Data Engineering](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=MLOps%20Course-,Data%20Engineering,-Data%20Engineering%20Zoomcamp) 
+* [Data Engineering](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=MLOps%20Course-,Data%20Engineering,-Data%20Engineering%20Zoomcamp)
+* [SQL & Database]()
 
 ## Natural Language Processing ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/NLP.jpg)
 
 * [nlp-tutorial](https://github.com/graykode/nlp-tutorial): nlp-tutorial is a tutorial for who is studying NLP(Natural Language Processing) using Pytorch. Most NLP models were implemented with less than 100 lines of code.
 
-
 ## Large Language Models ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/LLM.png)
+* [LLMs Practical Guide: The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide)
+* [LLM Survey: A collection of papers and resources related to Large Language Models](https://github.com/RUCAIBox/LLMSurvey)
 * [Open LLMs: List of LLMs that are all licensed for commercial](https://github.com/eugeneyan/open-llms)
-* [Awesome-LLM: Curated list of papers about large language models, especially relating to ChatGPT](https://github.com/Hannibal046/Awesome-LLM)
-* [awesome-decentralized-llm: Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research](https://github.com/imaurer/awesome-decentralized-llm)
+* [Awesome LLM: Curated list of papers about large language models, especially relating to ChatGPT](https://github.com/Hannibal046/Awesome-LLM)
+* [Awesome Decentralized LLM: Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research](https://github.com/imaurer/awesome-decentralized-llm)
 * [LangChain: Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
 * [Awesome LangChain: Curated list of tools and projects using LangChain](https://github.com/kyrolabs/awesome-langchain)
 * [Awesome-Graph-LLM: A collection of AWESOME things about Graph-Related Large Language Models (LLMs).](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 * [DemoGPT: Auto Gen-AI App Generator with the Power of Llama 2](https://github.com/melih-unsal/DemoGPT)
+* [OpenLLM: An open platform for operating large language models (LLMs) in production](https://github.com/bentoml/OpenLLM)
+* [LLM Zoo: democratizing ChatGPT](https://github.com/FreedomIntelligence/LLMZoo)
+* [VectorDB-recipes](https://github.com/lancedb/vectordb-recipes)
+* [Awesome GPT Prompt Engineering: A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)
+* [Prompt Engineering Guide: ](https://github.com/dair-ai/Prompt-Engineering-Guide)
+* [LLM Course](https://github.com/mlabonne/llm-course)
 
 ## Computer Vision ## 
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Computer%20Vision.png)
@@ -90,8 +98,9 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
 * [Machine Learning Interview Questions: Machine Learning and Computer Vision Engineer](https://github.com/andrewekhalel/MLQuestions)
 * [Must Read Machine Learning & Deep Learning Papers](https://github.com/hurshd0/must-read-papers-for-ml)
+* [Free Machine Learning Books](https://github.com/shahumar/Free-Machine-Learning-Books)
 
-## Machine Learning Engineerings Operations (MLOps) ##
+## Machine Learning Engineering Operations (MLOps) ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/MLOps.png)
 * [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 * [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
@@ -111,3 +120,40 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Data Engineering Roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 * [Data Engineering Projects](https://github.com/alanchn31/Data-Engineering-Projects)
 * [Data Engineering Interview Questions](https://github.com/OBenner/data-engineering-interview-questions)
+
+
+## SQL & Database ##
+
+* [SQL 101 by s-shemmee]()
+* [Learn SQL by WebDevSimplified]()
+* [SQL Masterclass by datawithdanny]()
+* [SQL Map by sqlmapproject]()
+* [SQL Server Samples by Microsoft]()
+* [SQL Music Store Analysis Project by Rishabhnmishra]()
+* [Data Engineering Zoomcamp by DataTalksClub]()
+* [SQL Server Kit by ktaranov]()
+* [Awesome DB Tools by mgramin]()
+* [SQL for Wary Data Scientists by gvwilson]()
+
+  
+
+## Statistics ##
+* [Practical Statistics for Data Scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)
+* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+* [Statsmodels: Statistical Modeling and Econometrics in Python](https://github.com/statsmodels/statsmodels)
+* [TensorFlow Probability](https://github.com/tensorflow/probability)
+* [The Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook)
+* [Seeing Theory](https://github.com/seeingtheory/Seeing-Theory)
+* [Stats Maths with Python](https://github.com/tirthajyoti/Stats-Maths-with-Python)
+* [Python for Probability, Statistics, and Machine Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning)
+* [Probability and Statistics VIP Cheatsheets](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
+* [Basic Mathematics for Machine Learning](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning)
+
+
+
+
+
+
+
+
+
