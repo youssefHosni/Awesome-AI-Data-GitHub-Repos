@@ -100,6 +100,18 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Must Read Machine Learning & Deep Learning Papers](https://github.com/hurshd0/must-read-papers-for-ml)
 * [Free Machine Learning Books](https://github.com/shahumar/Free-Machine-Learning-Books)
 
+## Machine Learning Projects ## 
+* [Orca calls Classifier Project](https://github.com/rohankrgupta/Orca-call-Classifier-Machine-learning)
+* [Multi-Modal House Price Estimation](https://github.com/Mehrab-Kalantari/Multi-Modal-House-Price-Estimation)
+* [Movie Recommendation System Project](https://github.com/Mehrab-Kalantari/Multi-Modal-House-Price-Estimation)
+* [Land Cover Semantic Segmentation Project](https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch)
+* [Music Recommender System using ALS Algorithm with Apache Spark and Python](https://github.com/ramyananth/Music-Recommender-System-using-ALS-Algorithm-with-Apache-Spark-and-Python)
+* [Adversarial Task](https://github.com/antonio-f/Adversarial-Task)
+* [Flowers Classification](https://github.com/firaja/flowers-classification)
+* [99 Machine Learning Projects](https://github.com/gimseng/99-ML-Learning-Projects)
+* [Advanced Machine Learning Projects I](https://github.com/beimingliu/AdvancedMachineLearning)
+* [Advanced Machine Learning II](https://github.com/mohammadmozafari/advanced-machine-learning)
+
 ## Machine Learning Engineering Operations (MLOps) ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/MLOps.png)
 * [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
