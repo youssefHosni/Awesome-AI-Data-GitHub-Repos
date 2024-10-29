@@ -153,8 +153,6 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Awesome DB Tools by mgramin]()
 * [SQL for Wary Data Scientists by gvwilson]()
 
-  
-
 ## Statistics ##
 * [Practical Statistics for Data Scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
