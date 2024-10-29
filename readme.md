@@ -25,10 +25,12 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Large Language Models(LLM)](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=lines%20of%20code.-,Large%20Language%20Models,-Open%20LLMs%3A%20List)
 * [Computer Vision](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=LLMs%20through%20composability-,Computer%20Vision,-Computer%20Vision%20Tutorials)
 * [Data Science](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=based%20CV%20works-,Data%20Science,-Data%20Science%20for)
-* [Machine Learning](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=Interview%20Questions%20Answers-,Machine%20Learning,-Best%2Dof%20Machine) 
+* [Machine Learning](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=Interview%20Questions%20Answers-,Machine%20Learning,-Best%2Dof%20Machine)
+* [Machine Learning Projects]()
 * [Machine Learning Engineerings Operations (MLOps)](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=Machine%20Learning%20Interviews-,Machine%20Learning%20Engineerings%20Operations%20(MLOps),-MLOps%2DBasics)
 * [Data Engineering](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=MLOps%20Course-,Data%20Engineering,-Data%20Engineering%20Zoomcamp)
-* [SQL & Database]()
+* [SQL & Database](https://github.com/youssefHosni/Awesome-AI-Data-GitHub-Repos/blob/main/readme.md#:~:text=Engineering%20Interview%20Questions-,SQL%20%26%20Database,-SQL%20101%20by)
+* [Statistics]
 
 ## Natural Language Processing ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/NLP.jpg)
