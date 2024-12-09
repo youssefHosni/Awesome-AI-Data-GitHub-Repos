@@ -144,11 +144,11 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 
 ## SQL & Database ##
 
-* [SQL 101 by s-shemmee]()
-* [Learn SQL by WebDevSimplified]()
-* [SQL Masterclass by datawithdanny]()
-* [SQL Map by sqlmapproject]()
-* [SQL Server Samples by Microsoft]()
+* [SQL 101 by s-shemmee](https://github.com/s-shemmee/SQL-101)
+* [Learn SQL by WebDevSimplified](https://github.com/WebDevSimplified/Learn-SQL)
+* [SQL Masterclass by datawithdanny](https://github.com/datawithdanny/sql-masterclass)
+* [SQL Map by sqlmapproject](https://github.com/sqlmapproject/sqlmap)
+* [SQL Server Samples by Microsoft](https://github.com/microsoft/sql-server-samples)
 * [SQL Music Store Analysis Project by Rishabhnmishra]()
 * [Data Engineering Zoomcamp by DataTalksClub]()
 * [SQL Server Kit by ktaranov]()
