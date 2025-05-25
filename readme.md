@@ -55,7 +55,7 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Prompt Engineering Guide: ](https://github.com/dair-ai/Prompt-Engineering-Guide)
 * [LLM Course](https://github.com/mlabonne/llm-course)
 
-## Computer Vision ## 
+## Computer Vision ##
 ![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Computer%20Vision.png)
 * [Awesome Computer Vision: A curated list of awesome computer vision resources](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Computer Vision Tutorials by Roboflow](https://github.com/roboflow/notebooks)
@@ -108,7 +108,7 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Must Read Machine Learning & Deep Learning Papers](https://github.com/hurshd0/must-read-papers-for-ml)
 * [Free Machine Learning Books](https://github.com/shahumar/Free-Machine-Learning-Books)
 
-## Machine Learning Projects ## 
+## Machine Learning Projects ##
 * [Orca calls Classifier Project](https://github.com/rohankrgupta/Orca-call-Classifier-Machine-learning)
 * [Multi-Modal House Price Estimation](https://github.com/Mehrab-Kalantari/Multi-Modal-House-Price-Estimation)
 * [Movie Recommendation System Project](https://github.com/Mehrab-Kalantari/Multi-Modal-House-Price-Estimation)
@@ -154,6 +154,7 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [SQL Server Kit by ktaranov]()
 * [Awesome DB Tools by mgramin]()
 * [SQL for Wary Data Scientists by gvwilson]()
+* [Learn SQL with real startup data — SQL Habit by makaroni4](https://www.sqlhabit.com/)
 
 ## Statistics ##
 * [Practical Statistics for Data Scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)
@@ -166,12 +167,3 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Python for Probability, Statistics, and Machine Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning)
 * [Probability and Statistics VIP Cheatsheets](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
 * [Basic Mathematics for Machine Learning](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning)
-
-
-
-
-
-
-
-
-
