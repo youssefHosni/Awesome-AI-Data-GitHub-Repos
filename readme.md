@@ -51,6 +51,7 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [OpenLLM: An open platform for operating large language models (LLMs) in production](https://github.com/bentoml/OpenLLM)
 * [LLM Zoo: democratizing ChatGPT](https://github.com/FreedomIntelligence/LLMZoo)
 * [VectorDB-recipes](https://github.com/lancedb/vectordb-recipes)
+* [WFGY Problem Map: Framework for diagnosing RAG and LLM pipeline failures ](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)
 * [Awesome GPT Prompt Engineering: A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)
 * [Prompt Engineering Guide: ](https://github.com/dair-ai/Prompt-Engineering-Guide)
 * [LLM Course](https://github.com/mlabonne/llm-course)
