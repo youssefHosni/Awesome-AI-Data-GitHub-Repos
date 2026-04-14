@@ -166,6 +166,7 @@ A curated list of the most essential GitHub repos that cover the AI & ML landsca
 * [Python for Probability, Statistics, and Machine Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning)
 * [Probability and Statistics VIP Cheatsheets](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
 * [Basic Mathematics for Machine Learning](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 
 
